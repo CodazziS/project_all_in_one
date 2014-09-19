@@ -19,10 +19,10 @@ Install addons :
     'version': '0.3',
     'depends': [
         'project',
-        'project_indicators',
-        'project_logical_framework',
-        'project_finances',
-        'project_partners'],
+        'odoo-project_indicators',
+        'odoo-project_logical_framework',
+        'odoo-project_finances',
+        'odoo-project_partners'],
     'data': [
         'static/src/xml/view.xml', 
     ],
