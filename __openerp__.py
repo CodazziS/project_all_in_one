@@ -23,7 +23,4 @@ Install addons :
         'project_logical_framework',
         'project_finances',
         'project_partners'],
-    'data': [
-        'static/src/xml/view.xml', 
-    ],
 }
