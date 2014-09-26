@@ -1,6 +1,6 @@
 {
     'name': "Project All in one",
-    'author' : 'Stéphane Codazzi @ TeMPO-Consulting',
+    'author': 'Stéphane Codazzi @ TeMPO-Consulting',
     'category': 'Project',
     'sequence': 1,
     'description': """
